@@ -1,5 +1,0 @@
-def greet(name):
-    print("Hello", name)
-
-def add(a, b):
-    print("Sum =", a + b)
